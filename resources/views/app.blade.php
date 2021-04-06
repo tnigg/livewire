@@ -11,7 +11,9 @@
 </head>
 
 <body>
-    <x-comment />
+    <livewire:comment />
+
+
     @livewireScripts
 </body>
 
