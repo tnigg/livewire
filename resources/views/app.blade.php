@@ -11,8 +11,7 @@
 </head>
 
 <body>
-    Test
-
+    <x-comment />
     @livewireScripts
 </body>
 
